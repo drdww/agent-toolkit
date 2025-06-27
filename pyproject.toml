@@ -1,0 +1,10 @@
+[project]
+name = "agent-toolkit"
+version = "0.1.0"
+description = "A simple agent wrapper for OpenAI calls"
+authors = [{ name = "Dave Wanik", email = "david.w.wanik@gmail.com" }]
+dependencies = ["openai>=1.0.0"]
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
