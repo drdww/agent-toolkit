@@ -1,6 +1,6 @@
 [project]
 name = "agent-toolkit"
-version = "0.2.0"
+version = "0.3.0" # added a new solver layer with brute force!
 description = "A simple agent wrapper for OpenAI calls"
 authors = [{ name = "Dave Wanik", email = "david.w.wanik@gmail.com" }]
 dependencies = [
