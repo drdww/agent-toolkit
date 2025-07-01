@@ -1,6 +1,6 @@
 [project]
 name = "agent-toolkit"
-version = "0.3.0" # added a new solver layer with brute force!
+version = "0.4.0" # Add solve_lp_from_prompt() to stitch parser + solver
 description = "A simple agent wrapper for OpenAI calls"
 authors = [{ name = "Dave Wanik", email = "david.w.wanik@gmail.com" }]
 dependencies = [
